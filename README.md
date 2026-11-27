@@ -28,13 +28,20 @@ Guests discover events and reserve tables or tickets by choosing their exact tab
 ### 🌐 More built with Lovable
 Web Weaver AI · EB Luxe Detail · Crete Crafted Journeys · Aegean Dreams Collective
 
-> 🔒 These are commercial products, so their source code is private. I'm happy to give a live demo or walk through the architecture on a call.
+> 🔒 Pay2gether and the Lovable apps are commercial products, so their source code is private. I'm happy to give a live demo or walk through the architecture on a call.
+
+## Open source
+
+### 🔎 [mini-rag](https://github.com/hbekiai22/mini-rag) — retrieval-augmented generation in Python
+A compact RAG pipeline that answers questions about a set of documents with Claude, **cites the passages it used**, and says "I don't know" when the documents don't contain the answer. Includes a course-assistant demo that answers students' questions about deadlines, referencing and AI-use rules.
+
+`Python` `Anthropic Claude API` `BM25` `RAG` `unittest` `GitHub Actions`
 
 ---
 
 ## Skills
 
-**AI development:** Lovable · Claude Code · prompt design · LLM-powered features
+**AI development:** RAG · Anthropic Claude API · prompt design · Lovable · Claude Code · LLM-powered features
 **Languages:** Python · TypeScript/JavaScript · Java · C++ · SQL
 **Tools:** React · Node.js · PostgreSQL · Stripe API · Docker · Git · CI/CD
 
